@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Ritika%20Sharma&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Frontend%20Developer%20%7C%20DSA%20Explorer%20%7C%20Future%20Full%20Stack%20Dev&descAlignY=55&descSize=18"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Ritika%20&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Frontend%20Developer%20%7C%20DSA%20Explorer%20%7C%20Future%20Full%20Stack%20Dev&descAlignY=55&descSize=18"/>
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
@@ -28,7 +28,7 @@
 ## 🧑‍💻 About Me
 
 ```yaml
-name        : Ritika Sharma
+name        : Ritika 
 title       : Frontend Developer (Full Stack in progress 🚀)
 location    : India 🇮🇳
 education   : Computer Science & Engineering
