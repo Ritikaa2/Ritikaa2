@@ -81,9 +81,9 @@ debugging:   fueled by coffee ☕
 
 | Project | What it does | Stack |
 |---|---|---|
-| **[REPO_NAME_1](https://github.com/Ritika91158/REPO_NAME_1)** | One-line description here | React, CSS |
-| **[REPO_NAME_2](https://github.com/Ritika91158/REPO_NAME_2)** | One-line description here | Java, DSA |
-| **[REPO_NAME_3](https://github.com/Ritika91158/REPO_NAME_3)** | One-line description here | JS, API |
+| **[REPO_NAME_1](https://github.com/Ritikaa2/REPO_NAME_1)** | One-line description here | React, CSS |
+| **[REPO_NAME_2](https://github.com/Ritikaa2/REPO_NAME_2)** | One-line description here | Java, DSA |
+| **[REPO_NAME_3](https://github.com/Ritikaa2/REPO_NAME_3)** | One-line description here | JS, API |
 
 </div>
 
@@ -94,16 +94,16 @@ debugging:   fueled by coffee ☕
 <h3 align="center">📊 The Numbers</h3>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Ritika91158&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117" height="170"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ritika91158&theme=github-dark-blue&hide_border=true&background=0d1117" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Ritikaa2&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117" height="170"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ritikaa2&theme=github-dark-blue&hide_border=true&background=0d1117" height="170"/>
 </div>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ritika91158&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ritikaa2&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117" height="170"/>
 </div>
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ritika91158&theme=github-compact&bg_color=0d1117&hide_border=true" width="90%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ritikaa2&theme=github-compact&bg_color=0d1117&hide_border=true" width="90%"/>
 </div>
 
 ---
@@ -114,7 +114,7 @@ debugging:   fueled by coffee ☕
 
 <a href="mailto:ritikatoore@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://linkedin.com/in/ritikatoora"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://github.com/Ritika91158"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://github.com/Ritikaa2"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="https://leetcode.com/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
 
 </div>
