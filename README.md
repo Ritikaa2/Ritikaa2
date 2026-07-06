@@ -1,14 +1,12 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&text=Ritika%20Toora&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20|%20Java%20Developer%20|%20DSA%20Enthusiast&descAlignY=55"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&text=Ritika%20Toora&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20|%20Java%20Developer%20|%20Open%20to%20Internships&descAlignY=55"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=6AD3F7&center=true&vCenter=true&width=700&lines=Hi+👋+I'm+Ritika;Full+Stack+Developer;Java+%7C+React+%7C+Node.js;Always+Learning+New+Things"/>
+# Hi 👋 I'm Ritika 
 
-<p>
-<img src="https://komarev.com/ghpvc/?username=Ritikaa2&style=for-the-badge&color=blueviolet"/>
-<img src="https://img.shields.io/github/followers/Ritikaa2?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Open%20To-Internships-success?style=for-the-badge"/>
-</p>
+### Full Stack Developer • Java • React • Node.js • Spring Boot
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Building+Scalable+Web+Applications;Passionate+about+DSA+%26+Backend;Learning+Something+New+Every+Day;Open+to+Software+Engineering+Internships"/>
 
 </div>
 
@@ -16,86 +14,144 @@
 
 # 👩‍💻 About Me
 
-```yaml
-Name        : Ritika Toora
-Education   : B.Tech CSE
-College     : Lovely Professional University
-Currently   : Learning Spring Boot & Building Full Stack Projects
-Focus       : DSA • Backend • Web Development
-```
+💻 Passionate Full Stack Developer who enjoys building scalable web applications and solving real-world problems.
+
+- 🎓 B.Tech in Computer Science & Engineering
+- 🌱 Currently learning **Spring Boot & System Design**
+- 💡 Interested in **Backend Development, AI Applications & Full Stack Development**
+- 🧩 Solved **300+ DSA Problems**
+- 🚀 Looking for **Software Engineering & Full Stack Internships**
 
 ---
 
-# 🚀 Tech Stack
+# 🛠️ Tech Stack
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=java,cpp,js,html,css,react,nodejs,express,spring,mysql,mongodb,tailwind,git,github,vscode,postman&perline=8"/>
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,cpp,js,php" />
+</p>
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,react,tailwind,bootstrap" />
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,spring,mysql,mongodb" />
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,firebase" />
 </p>
 
 ---
 
-# 🌟 Featured Projects
+# 🚀 Featured Projects
 
-| Project | Tech |
-|---------|------|
-| 🤖 AI Interview Platform | React • Node • MongoDB • OpenRouter |
-| 💰 Startup Financing Platform | MERN • Razorpay • JWT |
-| 💡 Student Innovation Platform | PHP • MySQL • JavaScript |
+## 🤖 AI Interview Platform
+
+AI-powered interview platform with Recruiter & Candidate dashboards, AI-generated interview feedback, authentication and analytics.
+
+**Tech Stack:** React • Node.js • Express • MongoDB • JWT • OpenRouter AI
+
+---
+
+## 💰 Startup Financing Platform
+
+Full Stack financing platform with secure authentication, Razorpay integration, loan tracking and real-time updates.
+
+**Tech Stack:** React • Node.js • MongoDB • Razorpay • WebSocket
+
+---
+
+## 💡 Student Innovation Platform
+
+A collaborative platform where students can share innovative ideas, discuss projects and interact with peers.
+
+**Tech Stack:** PHP • MySQL • HTML • CSS • JavaScript
 
 ---
 
 # 📊 GitHub Stats
 
-<p align="center">
+<div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Ritikaa2&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Ritikaa2&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img width="48%" src="https://streak-stats.demolab.com?user=Ritikaa2&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://streak-stats.demolab.com?user=Ritikaa2&theme=tokyonight&hide_border=true"/>
 
-</p>
+<br><br>
 
-<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ritikaa2&layout=compact&theme=tokyonight&hide_border=true"/>
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ritikaa2&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
+</div>
 
 ---
 
 # 🏆 Achievements
 
-✨ Solved **300+ DSA Problems**
+🏅 AIR 1490 — Young Turks Hackathon
 
-🏅 AIR **1490** - Young Turks Hackathon
+🧩 Solved **300+ DSA Problems**
 
 ⭐ 5★ HackerRank (C++)
 
-💼 Open to Full Stack & Software Engineer Internships
+💻 Built Multiple Full Stack Projects
 
 ---
 
 # 🌐 Connect With Me
 
-<p align="center">
+<p align="left">
 
 <a href="mailto:ritikatoore@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=gmail" width="45"/>
 </a>
+&nbsp;&nbsp;
 
 <a href="https://linkedin.com/in/ritikaa01">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=linkedin" width="45"/>
 </a>
+&nbsp;&nbsp;
 
 <a href="https://github.com/Ritikaa2">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+<img src="https://skillicons.dev/icons?i=github" width="45"/>
+</a>
+&nbsp;&nbsp;
+
+<a href="https://ritika28portfolio.netlify.app/">
+<img src="https://img.icons8.com/fluency/48/domain.png" width="45"/>
+</a>
+&nbsp;&nbsp;
+
+<a href="https://leetcode.com/u/Ritika__28/">
+<img src="https://cdn.simpleicons.org/leetcode/FFA116" width="45"/>
 </a>
 
 </p>
 
+📧 **Email:** ritikatoore@gmail.com
+
+💼 **LinkedIn:** www.linkedin.com/in/ritikaa01
+
+💻 **GitHub:** https://github.com/Ritikaa2
+
+🌐 **Portfolio:** https://ritika28portfolio.netlify.app/
+
+🧩 **LeetCode:** https://leetcode.com/u/Ritika__28/
+
+---
+
 <div align="center">
 
-⭐ Thanks for visiting my profile ⭐
+### ⭐ Thanks for visiting my profile!
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient"/>
 
 </div>
