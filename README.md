@@ -1,12 +1,14 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&text=Ritika%20Toora&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20|%20Java%20Developer%20|%20Open%20to%20Internships&descAlignY=55"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:4F46E5,50:7C3AED,100:EC4899&text=Ritika%20Toora&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20•%20Java%20Developer%20•%20Open%20to%20Internships&descAlignY=58"/>
 
 # Hi 👋 I'm Ritika 
 
 ### Full Stack Developer • Java • React • Node.js • Spring Boot
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Building+Scalable+Web+Applications;Passionate+about+DSA+%26+Backend;Learning+Something+New+Every+Day;Open+to+Software+Engineering+Internships"/>
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+Scalable+Web+Applications;Passionate+about+Backend+Development;Learning+Spring+Boot+%26+System+Design;Always+Learning+Something+New" />
+</a>
 
 </div>
 
@@ -14,40 +16,39 @@
 
 # 👩‍💻 About Me
 
-💻 Passionate Full Stack Developer who enjoys building scalable web applications and solving real-world problems.
+I'm a **Computer Science undergraduate** passionate about building scalable web applications and solving real-world problems through technology.
 
-- 🎓 B.Tech in Computer Science & Engineering
-- 🌱 Currently learning **Spring Boot & System Design**
-- 💡 Interested in **Backend Development, AI Applications & Full Stack Development**
-- 🧩 Solved **300+ DSA Problems**
-- 🚀 Looking for **Software Engineering & Full Stack Internships**
+- 💻 Full Stack Developer
+- 🌱 Currently learning **Spring Boot** & **System Design**
+- 🚀 Interested in Backend Development, AI Applications & Web Technologies
+- 💼 Open to Software Engineering & Full Stack Internships
 
 ---
 
-# 🛠️ Tech Stack
+# 🛠 Tech Stack
 
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,cpp,js,php" />
+<img src="https://skillicons.dev/icons?i=java,cpp,js,php"/>
 </p>
 
 ### Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,react,tailwind,bootstrap" />
+<img src="https://skillicons.dev/icons?i=html,css,react,tailwind,bootstrap"/>
 </p>
 
 ### Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,spring,mysql,mongodb" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,spring,mysql,mongodb"/>
 </p>
 
 ### Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,firebase" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,firebase"/>
 </p>
 
 ---
@@ -56,95 +57,126 @@
 
 ## 🤖 AI Interview Platform
 
-AI-powered interview platform with Recruiter & Candidate dashboards, AI-generated interview feedback, authentication and analytics.
+AI-powered mock interview platform that enables recruiters to create interviews while candidates receive AI-generated feedback, performance analysis, and interview reports.
 
-**Tech Stack:** React • Node.js • Express • MongoDB • JWT • OpenRouter AI
+**Tech Stack**
+
+`React` `Node.js` `Express.js` `MongoDB` `JWT` `Tailwind CSS` `OpenRouter AI`
+
+---
+
+## 📈 InvestIQ – AI Equity Research Platform
+
+An AI-powered investment research platform that generates professional equity research reports with company analysis, financial insights, SWOT analysis, competitor comparison, investment score, confidence level, and AI-driven recommendations. :contentReference[oaicite:0]{index=0}
+
+**Tech Stack**
+
+`React` `Node.js` `Express.js` `MongoDB` `Gemini AI` `Tailwind CSS`
+
+📂 Repository: **github.com/Ritikaa2/InvestIQ**
 
 ---
 
 ## 💰 Startup Financing Platform
 
-Full Stack financing platform with secure authentication, Razorpay integration, loan tracking and real-time updates.
+A full-stack financing platform that simplifies startup loan management with secure authentication, loan tracking, Razorpay payment integration, and real-time status updates.
 
-**Tech Stack:** React • Node.js • MongoDB • Razorpay • WebSocket
+**Tech Stack**
+
+`React` `Node.js` `MongoDB` `JWT` `Razorpay API` `WebSocket`
 
 ---
 
 ## 💡 Student Innovation Platform
 
-A collaborative platform where students can share innovative ideas, discuss projects and interact with peers.
+A collaborative platform where students can share innovative ideas, participate in discussions, and connect with peers through a secure and responsive web application.
 
-**Tech Stack:** PHP • MySQL • HTML • CSS • JavaScript
+**Tech Stack**
 
----
-
-# 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Ritikaa2&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://streak-stats.demolab.com?user=Ritikaa2&theme=tokyonight&hide_border=true"/>
-
-<br><br>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ritikaa2&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
+`PHP` `MySQL` `HTML` `CSS` `JavaScript`
 
 ---
 
-# 🏆 Achievements
+# 🤝 Connect With Me
 
-🏅 AIR 1490 — Young Turks Hackathon
+<table>
 
-🧩 Solved **300+ DSA Problems**
+<tr>
+<td width="45">
 
-⭐ 5★ HackerRank (C++)
+<img src="https://skillicons.dev/icons?i=gmail" width="28"/>
 
-💻 Built Multiple Full Stack Projects
+</td>
 
----
+<td>
 
-# 🌐 Connect With Me
+**Email**  
+<a href="mailto:ritikatoore@gmail.com">ritikatoore@gmail.com</a>
 
-<p align="left">
+</td>
+</tr>
 
-<a href="mailto:ritikatoore@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" width="45"/>
-</a>
-&nbsp;&nbsp;
+<tr>
+<td>
 
-<a href="https://linkedin.com/in/ritikaa01">
-<img src="https://skillicons.dev/icons?i=linkedin" width="45"/>
-</a>
-&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=linkedin" width="28"/>
 
-<a href="https://github.com/Ritikaa2">
-<img src="https://skillicons.dev/icons?i=github" width="45"/>
-</a>
-&nbsp;&nbsp;
+</td>
 
-<a href="https://ritika28portfolio.netlify.app/">
-<img src="https://img.icons8.com/fluency/48/domain.png" width="45"/>
-</a>
-&nbsp;&nbsp;
+<td>
 
-<a href="https://leetcode.com/u/Ritika__28/">
-<img src="https://cdn.simpleicons.org/leetcode/FFA116" width="45"/>
-</a>
+**LinkedIn**  
+<a href="https://linkedin.com/in/ritikaa01">linkedin.com/in/ritikaa01</a>
 
-</p>
+</td>
+</tr>
 
-📧 **Email:** ritikatoore@gmail.com
+<tr>
+<td>
 
-💼 **LinkedIn:** www.linkedin.com/in/ritikaa01
+<img src="https://skillicons.dev/icons?i=github" width="28"/>
 
-💻 **GitHub:** https://github.com/Ritikaa2
+</td>
 
-🌐 **Portfolio:** https://ritika28portfolio.netlify.app/
+<td>
 
-🧩 **LeetCode:** https://leetcode.com/u/Ritika__28/
+**GitHub**  
+<a href="https://github.com/Ritikaa2">github.com/Ritikaa2</a>
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+<img src="https://img.icons8.com/color/48/domain.png" width="28"/>
+
+</td>
+
+<td>
+
+**Portfolio**  
+<a href="https://ritika28portfolio.netlify.app/">ritika28portfolio.netlify.app</a>
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+<img src="https://cdn.simpleicons.org/leetcode/FFA116" width="28"/>
+
+</td>
+
+<td>
+
+**LeetCode**  
+<a href="https://leetcode.com/u/Ritika__28/">leetcode.com/u/Ritika__28</a>
+
+</td>
+</tr>
+
+</table>
 
 ---
 
@@ -152,6 +184,6 @@ A collaborative platform where students can share innovative ideas, discuss proj
 
 ### ⭐ Thanks for visiting my profile!
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:4F46E5,50:7C3AED,100:EC4899"/>
 
 </div>
